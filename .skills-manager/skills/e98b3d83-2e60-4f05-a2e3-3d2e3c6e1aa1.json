@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e98b3d83-2e60-4f05-a2e3-3d2e3c6e1aa1",
+  "path": "visio-skill",
+  "path_key": "visio-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "deermiya/visio-skill/visio-skill",
+    "subpath": null,
+    "branch": null
+  }
+}
